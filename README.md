@@ -1,6 +1,8 @@
 # bayesQR
 Bayesian quantile regression Use bayesQR With (In) R software
 
+https://www.youtube.com/watch?v=eRLHTnE2u6U
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
